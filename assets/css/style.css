@@ -1,0 +1,15 @@
+* { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    font: black
+
+  }
+
+  body {
+    background-color: yellow;
+  }
+
+  ul {
+    vertical-align: middle;
+  }
+  
